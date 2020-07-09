@@ -1,0 +1,10 @@
+setup redux DONE
+setup reducers and actions DONE
+setup chat DONE
+chat queue DONE
+display the messages to the users DONE
+get and handle session ids Sort Of DONE
+handle sending our users message to the application default_if_none
+addding bot response to the queue DONE
+Formatting DONE
+Adding tailwind css for styling

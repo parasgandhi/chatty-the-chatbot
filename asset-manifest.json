@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chatty-the-chatbot/static/css/main.fb0ca6e5.chunk.css",
+    "main.js": "/chatty-the-chatbot/static/js/main.4172c08c.chunk.js",
+    "main.js.map": "/chatty-the-chatbot/static/js/main.4172c08c.chunk.js.map",
+    "runtime-main.js": "/chatty-the-chatbot/static/js/runtime-main.094a92d7.js",
+    "runtime-main.js.map": "/chatty-the-chatbot/static/js/runtime-main.094a92d7.js.map",
+    "static/js/2.1bb9a6cb.chunk.js": "/chatty-the-chatbot/static/js/2.1bb9a6cb.chunk.js",
+    "static/js/2.1bb9a6cb.chunk.js.map": "/chatty-the-chatbot/static/js/2.1bb9a6cb.chunk.js.map",
+    "index.html": "/chatty-the-chatbot/index.html",
+    "precache-manifest.4c3444c4afa2d9a21050a458d6291748.js": "/chatty-the-chatbot/precache-manifest.4c3444c4afa2d9a21050a458d6291748.js",
+    "service-worker.js": "/chatty-the-chatbot/service-worker.js",
+    "static/css/main.fb0ca6e5.chunk.css.map": "/chatty-the-chatbot/static/css/main.fb0ca6e5.chunk.css.map",
+    "static/js/2.1bb9a6cb.chunk.js.LICENSE.txt": "/chatty-the-chatbot/static/js/2.1bb9a6cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.094a92d7.js",
+    "static/js/2.1bb9a6cb.chunk.js",
+    "static/css/main.fb0ca6e5.chunk.css",
+    "static/js/main.4172c08c.chunk.js"
+  ]
+}
